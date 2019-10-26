@@ -1,7 +1,10 @@
 # Building-Metagraph-Algorithm
 Graphs represented in the form of adjacency lists.
 Algorithm finds strongly connected components (SCC) and prints them out.
-Then goes meta-graph building and printing it in the form of adjacency lists. Complexity O(|V| + |E|)
+Then goes meta-graph building and printing it in the form of adjacency lists
+
+## Complexity
+Average complexity is **O(|V| + |E|)**, where **|V|** - number of vertices, **|E|** - number of edges
 
 ## Input Data
 * *verticesCount* - number of vertices in the graph
