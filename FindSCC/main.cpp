@@ -140,6 +140,7 @@ private:
     
     /// Output metagraph as adjacency lists
     void outputMetagraph() {
+        cout << "Meta-graph:" << endl;
         for (int metaVertex = 0; metaVertex < metagraph.size(); ++metaVertex) {
             cout << metaVertex << "   ";
             for (int neighborMetaVertex : metagraph[metaVertex]) { cout << neighborMetaVertex << " "; }
