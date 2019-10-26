@@ -78,7 +78,7 @@ public:
                 }
             }
         }
-        cout << endl;
+        cout << endl << endl;
         // Output metagraph
         outputMetagraph();
     }
