@@ -1,5 +1,5 @@
 # Building-Metagraph-Algorithm
-Graphs represented in the form of adjacency lists.
+Graph represented in the form of adjacency lists.
 Algorithm finds strongly connected components (SCC) and prints them out.
 Then goes meta-graph building and printing it in the form of adjacency lists
 
